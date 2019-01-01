@@ -1,0 +1,3 @@
+﻿  main.c
+c:\users\sekyu\source\repos\simple_spec\simple_spec\main.c(9): warning C4101: 'a' :참조되지 않은 지역 변수입니다.
+  Simple_Spec2.vcxproj -> c:\users\sekyu\source\repos\Simple_Spec2\Debug\Simple_Spec2.exe

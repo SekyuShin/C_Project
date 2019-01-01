@@ -1,0 +1,5 @@
+﻿  Test2.c
+  test1.c
+c:\users\sekyu\source\repos\problem\problem\test1.c(8): warning C4013: 'getch'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  코드를 생성하고 있습니다...
+  problem.vcxproj -> C:\Users\sekyu\source\repos\problem\Debug\problem.exe

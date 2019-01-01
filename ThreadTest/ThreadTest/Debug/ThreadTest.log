@@ -1,0 +1,3 @@
+﻿  test3.c
+d:\c_practice\threadtest\threadtest\test3.c(12): warning C4101: 'threadId' :참조되지 않은 지역 변수입니다.
+  ThreadTest.vcxproj -> D:\c_practice\ThreadTest\Debug\ThreadTest.exe

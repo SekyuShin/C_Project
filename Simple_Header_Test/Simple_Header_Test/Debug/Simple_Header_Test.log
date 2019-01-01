@@ -1,0 +1,7 @@
+﻿  main.c
+c:\users\sekyu\source\repos\simple_header_test\simple_header_test\main.c(6): warning C4013: 'show'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\sekyu\source\repos\simple_header_test\simple_header_test\main.c(8): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\conio.h(453): note: 'getch' 선언을 참조하십시오.
+  show.c
+  코드를 생성하고 있습니다...
+  Simple_Header_Test.vcxproj -> c:\users\sekyu\source\repos\Simple_Header_Test\Debug\Simple_Header_Test.exe
