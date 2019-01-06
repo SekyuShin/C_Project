@@ -1,17 +1,11 @@
-﻿  test.c
-d:\study\c_project\c_study_example\part3\part3\test.c(13): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note: 'fscanf' 선언을 참조하십시오.
-d:\study\c_project\c_study_example\part3\part3\test.c(15): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note: 'fscanf' 선언을 참조하십시오.
-d:\study\c_project\c_study_example\part3\part3\test.c(18): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note: 'fscanf' 선언을 참조하십시오.
-d:\study\c_project\c_study_example\part3\part3\test.c(20): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+﻿  1-1.c
+  error_main.c
+  importance.c
+  main.c
+  mymain.c
+  _3_3.c
+d:\study\c_project\c_study_example\part3\part3\_3_3.c(26): warning C4013: 'getch'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+d:\study\c_project\c_study_example\part3\part3\_3_3.c(14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: 'fopen' 선언을 참조하십시오.
-d:\study\c_project\c_study_example\part3\part3\test.c(27): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: 'fopen' 선언을 참조하십시오.
-d:\study\c_project\c_study_example\part3\part3\test.c(29): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note: 'fscanf' 선언을 참조하십시오.
-d:\study\c_project\c_study_example\part3\part3\test.c(67): warning C4013: 'getch'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-d:\study\c_project\c_study_example\part3\part3\test.c(49): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note: 'fscanf' 선언을 참조하십시오.
+  코드를 생성하고 있습니다...
   Part3.vcxproj -> D:\Study\C_Project\C_Study_Example\Part3\x64\Debug\Part3.exe
